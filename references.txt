@@ -1,0 +1,3 @@
+https://www.gapminder.org/data/ *************csv/excel files were loaded from
+https://stackoverflow.com **********blog site for referring to any code issues and help
+http://pandas.pydata.org/pandas-docs/stable/user_guide/index.html *****Official pandas documentation libraries
